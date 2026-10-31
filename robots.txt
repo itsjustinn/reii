@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bastayun.netlify.app/sitemap.xml
+Sitemap: https://yeh-oke.netlify.app/sitemap.xml
